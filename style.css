@@ -95,3 +95,10 @@ pointer-events: none;
 .complete{
     text-decoration: line-through;
 }
+.todo{
+    display: flex;
+}
+.completed{
+    text-decoration: line-through;
+    opacity: 0.5;
+}
